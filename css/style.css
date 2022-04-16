@@ -10,6 +10,32 @@
 * 	Template Style 
 *
 * ======================================================= */
+/*a:link {*/
+/*  color: #dcee4a;*/
+/*  background-color: transparent;*/
+/*  text-decoration: none;*/
+/*}*/
+
+/*a:visited {*/
+/*  color: #c90629;*/
+/*  background-color: transparent;*/
+/*  text-decoration: none;*/
+/*}*/
+
+/*a:hover {*/
+/*  color: #600303;*/
+/*  background-color: transparent;*/
+/*  text-decoration: underline;*/
+/*}*/
+
+/*a:active {*/
+/*  color: #293402;*/
+/*  background-color: transparent;*/
+/*  text-decoration: underline;*/
+/*}*/
+
+
+
 body {
   font-family: "Space Mono", Arial, serif;
   font-weight: 400;
@@ -90,7 +116,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background-size: cover;
   background-attachment: fixed;
   position: relative;
-  height: 600px;
+  height: 100px;
   width: 100%;
 }
 #fh5co-header .overlay,
@@ -207,7 +233,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
   height: 200px;
   width: 200px;
-  margin: 0 auto;
+  margin: auto;
   margin-bottom: 30px;
   -webkit-border-radius: 80%;
   -moz-border-radius: 80%;
